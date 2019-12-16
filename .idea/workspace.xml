@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67f70a3-b529-40f3-a827-50d5327b3e63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test/MyGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/MyGit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/FirsProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/FirsProject.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +48,45 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.FirsProject">
+    <configuration name="FirsProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.FirsProject" />
+      <module name="MyGitPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirsProject.MyCommit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyGitPro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.FirsProject" />
+      <option name="METHOD_NAME" value="MyCommit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirsProject" />
+        <item itemvalue="TestNG.FirsProject.MyCommit" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -68,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
